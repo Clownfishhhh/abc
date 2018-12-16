@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\2345Downloads\jre" version="1.8.0_191">
+<bootpath>
+<entry path="D:\2345Downloads\jre\lib\resources.jar"/>
+<entry path="D:\2345Downloads\jre\lib\rt.jar"/>
+<entry path="D:\2345Downloads\jre\lib\sunrsasign.jar"/>
+<entry path="D:\2345Downloads\jre\lib\jsse.jar"/>
+<entry path="D:\2345Downloads\jre\lib\jce.jar"/>
+<entry path="D:\2345Downloads\jre\lib\charsets.jar"/>
+<entry path="D:\2345Downloads\jre\lib\jfr.jar"/>
+<entry path="D:\2345Downloads\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\2345Downloads\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\2345Downloads\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\2345Downloads" version="1.8.0_191">
+<bootpath>
+<entry path="D:\2345Downloads\jre\lib\resources.jar"/>
+<entry path="D:\2345Downloads\jre\lib\rt.jar"/>
+<entry path="D:\2345Downloads\jre\lib\sunrsasign.jar"/>
+<entry path="D:\2345Downloads\jre\lib\jsse.jar"/>
+<entry path="D:\2345Downloads\jre\lib\jce.jar"/>
+<entry path="D:\2345Downloads\jre\lib\charsets.jar"/>
+<entry path="D:\2345Downloads\jre\lib\jfr.jar"/>
+<entry path="D:\2345Downloads\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\2345Downloads\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\2345Downloads\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
